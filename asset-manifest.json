@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/snowfox127.github.io/static/css/main.231a407c.css",
-    "main.js": "/snowfox127.github.io/static/js/main.bd8a3096.js",
-    "static/media/Inter-SemiBold.woff": "/snowfox127.github.io/static/media/Inter-SemiBold.ff53c7406a23717b16a8.woff",
-    "static/media/Inter-Regular.woff": "/snowfox127.github.io/static/media/Inter-Regular.bafbd62f86d686bb65d0.woff",
-    "static/media/Inter-Bold.woff": "/snowfox127.github.io/static/media/Inter-Bold.b755d2e570b1329b527d.woff",
-    "static/media/Inter-Medium.woff": "/snowfox127.github.io/static/media/Inter-Medium.19051ee52164b5e67119.woff",
-    "static/media/AliceSchmidtResume.pdf": "/snowfox127.github.io/static/media/AliceSchmidtResume.b466c491a173f323a079.pdf",
-    "static/media/Inter-SemiBold.woff2": "/snowfox127.github.io/static/media/Inter-SemiBold.57fcd36069589ac94692.woff2",
-    "static/media/Inter-Regular.woff2": "/snowfox127.github.io/static/media/Inter-Regular.1619ff46967e77779ac6.woff2",
-    "static/media/Inter-Bold.woff2": "/snowfox127.github.io/static/media/Inter-Bold.36a650f426faae9edc53.woff2",
-    "static/media/Inter-Medium.woff2": "/snowfox127.github.io/static/media/Inter-Medium.d5afc4bd2dfa4a0c724a.woff2",
-    "static/media/health1.png": "/snowfox127.github.io/static/media/health1.c510a40e91eb148caaea.png",
-    "static/media/music.webp": "/snowfox127.github.io/static/media/music.88ca96ae03658ed20867.webp",
-    "static/media/kanban.webp": "/snowfox127.github.io/static/media/kanban.2343416ea3b3557fdefc.webp",
-    "static/media/book.webp": "/snowfox127.github.io/static/media/book.26a9a391e8bc97a53614.webp",
-    "index.html": "/snowfox127.github.io/index.html",
-    "main.231a407c.css.map": "/snowfox127.github.io/static/css/main.231a407c.css.map",
-    "main.bd8a3096.js.map": "/snowfox127.github.io/static/js/main.bd8a3096.js.map"
+    "main.css": "/static/css/main.191092fd.css",
+    "main.js": "/static/js/main.3b54fb61.js",
+    "static/media/Inter-SemiBold.woff": "/static/media/Inter-SemiBold.ff53c7406a23717b16a8.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.bafbd62f86d686bb65d0.woff",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.b755d2e570b1329b527d.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.19051ee52164b5e67119.woff",
+    "static/media/AliceSchmidtResume.pdf": "/static/media/AliceSchmidtResume.b466c491a173f323a079.pdf",
+    "static/media/Inter-SemiBold.woff2": "/static/media/Inter-SemiBold.57fcd36069589ac94692.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.1619ff46967e77779ac6.woff2",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.36a650f426faae9edc53.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.d5afc4bd2dfa4a0c724a.woff2",
+    "static/media/health1.png": "/static/media/health1.c510a40e91eb148caaea.png",
+    "static/media/music.webp": "/static/media/music.88ca96ae03658ed20867.webp",
+    "static/media/kanban.webp": "/static/media/kanban.2343416ea3b3557fdefc.webp",
+    "static/media/book.webp": "/static/media/book.26a9a391e8bc97a53614.webp",
+    "index.html": "/index.html",
+    "main.191092fd.css.map": "/static/css/main.191092fd.css.map",
+    "main.3b54fb61.js.map": "/static/js/main.3b54fb61.js.map"
   },
   "entrypoints": [
-    "static/css/main.231a407c.css",
-    "static/js/main.bd8a3096.js"
+    "static/css/main.191092fd.css",
+    "static/js/main.3b54fb61.js"
   ]
 }
